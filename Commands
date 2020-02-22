@@ -19,7 +19,7 @@ It tell's the description of the command.
 !announcement {Send's an announcement.}
 !say {Make the bot say anything you want.}
 !everyone {Annoy everyone.}
-!murder {Murder people.}
+!murder (Ping the person.) {Murder people.}
 !pewdsub {Send's image/video from r/PewDiePieSubmissions.}
 !cursedimage {Send's image/video from r/cursedimages.}
 
