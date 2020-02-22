@@ -1,0 +1,39 @@
+-- BingoBot Commands --
+
+If there is a command including this:
+()
+It's telling what to include in it.
+
+If there is a command including this:
+[]
+It's either required or important.
+
+If there is a command including this:
+{}
+It tell's the description of the command.
+
+
+📱 Text/Image Commands
+!chicken {Send's a image/emoji of a chicken.}
+!beanos {Send's a image of beanos.}
+!announcement {Send's an announcement.}
+!say {Make the bot say anything you want.}
+!everyone {Annoy everyone.}
+!murder {Murder people.}
+!pewdsub {Send's image/video from r/PewDiePieSubmissions.}
+!cursedimage {Send's image/video from r/cursedimages.}
+
+🎵 Music Commands
+!play (YouTube video name/link) {Play's a song from YouTube.} [REQUIRES TO BE IN CALL]
+!stop {Stop's the currently playing song.} [REQUIRES TO BE IN CALL]
+!playlist (YouTube video name) {Make's a list of the top 3 videos.} [REQUIRES TO BE IN CALL]
+!playresult (Playlist number) {Play's a result from the playlist command.} [REQUIRES TO BE IN CALL]
+
+😎 Server Admin Commands
+Coming soon....
+
+😉 NSFW Commands
+Coming in a long time....
+
+💣UnObTAINaBle CoMManDS
+!rEMovEBot {ReDAcTed} [ReDAcTED]
